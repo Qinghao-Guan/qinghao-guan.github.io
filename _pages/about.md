@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Zurich</a>. Andreasstrasse 15, Zurich, Switzerland
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>
       AND 3.57<br>
       Andreasstrasse 15<br>
-      Zürich 8050 Switzerland
+      8050, Zürich, Switzerland
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,4 +29,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Qinghao Guan joined the Computational Social and Communication Science division at IKMZ as a Research Assistant under the leadership of Prof. Dr. Jing Zeng in September of 2024. He studied Computational Linguistics with a minor in Neuroinformatics at the University of Zurich (from Feb. 2022). His research interests involve textual and visual content analysis on social media and information communication in Large Language Models.
+I joined the Computational Social and Communication Science division at the Department of Communication and Media Reserach as a Research Assistant under the leadership of Prof. Dr. Jing Zeng in September of 2024. I was a master student majoring in Computational Linguistics and minoring in Neuroinformatics at the University of Zurich (2022-2025). My research interests involve textual and visual content analysis on social media and information communication in Large Language Models.
