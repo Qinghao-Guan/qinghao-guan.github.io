@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://debjitpaul.github.io/sitemap.xml
+Sitemap: https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/qinghao-guan.html/sitemap.xml

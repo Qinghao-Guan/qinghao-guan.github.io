@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://debjitpaul.github.io/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/qinghao-guan.html/#contact">contact us</a>.'
               }
             ]
           }
