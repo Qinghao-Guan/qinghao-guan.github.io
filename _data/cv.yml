@@ -1,1 +1,39 @@
+cv:
+  name: Qinghao Guan
+  label: Communication Scientist/Computational Linguist
+  email: frankqinghaoguan@163.com
+  location: Zurich, Switzerland
+  image: ""
+  summary: Doing rigorous research with warmth, and humanity.
 
+  social_networks:
+    - network: GitHub
+      username: Qinghao-Guan
+    - network: Google Scholar
+      username: 50wF_BAAAAAJ
+    - network: LinkedIn
+      username: your-linkedin-username
+
+  sections:
+    Education:
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        area: Communication and Media Research
+        studyType: PhD
+        start_date: 2025
+        end_date: present
+
+    Experience:
+      - company: University of Zurich
+        position: Research and Teaching Assistant
+        location: Zurich, Switzerland
+        start_date: 2025
+        end_date: present
+
+    Languages:
+      - name: Chinese
+        summary: Native
+      - name: English
+        summary: Fluent
+      - name: German
+        summary: Working proficiency
