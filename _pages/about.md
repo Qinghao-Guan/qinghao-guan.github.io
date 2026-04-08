@@ -9,9 +9,11 @@ profile:
   image: photo-2025.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> AND 3.57 </p>
-    <p> Andreasstrasse 15 </p>
-    <p> Zürich 8050 Switzerland </p>
+    <p>
+      AND 3.57<br>
+      Andreasstrasse 15<br>
+      Zürich 8050 Switzerland
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
