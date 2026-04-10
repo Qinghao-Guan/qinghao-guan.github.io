@@ -1,5 +1,5 @@
 ---
-layout: research seminar
+layout: course
 title: NLP in Social Media Studies: An Introduction
 description: This seminar introduces students of communication science to the foundations and applications of Natural Language Processing (NLP) in the context of social media research. The course bridges computational techniques and specific social media research by guiding students through the full research pipeline, from collecting and pre-processing textual data to conducting exploratory and inferential analyses using NLP methods. With a strong focus on social media platforms, the seminar highlights how NLP can be used to study public opinion, emotion, discourse patterns, and topic emergence across digital environments. Through case studies, interactive exercises, and critical reflection, students will explore both the potential and limitations of applying NLP tools. The course also addresses timely issues such as language bias, algorithmic fairness, and the ethics of social media research in the generative AI era. While no prior coding experience is assumed, the seminar emphasizes conceptual understanding and equips students with hands-on experience using accessible tools and guided Python notebooks.
 instructor: Qinghao Guan
