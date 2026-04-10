@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Zurich</a>, Andreasstrasse 15, Zurich, Switzerland
+subtitle:
 
 profile:
   align: right
