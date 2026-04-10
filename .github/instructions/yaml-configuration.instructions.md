@@ -75,16 +75,11 @@ Defines social media links and contact information displayed on the site.
 **Example:**
 
 ```yaml
-cv_pdf: /assets/pdf/example_pdf.pdf
-email: you@example.com
-scholar_userid: qc6CJjYAAAAJ
-github_username: username
-linkedin_username: username
-
-custom_social:
-  logo: https://example.com/logo.png
-  title: Custom Profile
-  url: https://example.com/
+#cv_pdf: /assets/pdf/example_pdf.pdf
+email: q.guan@ikmz.uzh.ch
+scholar_userid: 50wF_BAAAAAJ&hl
+github_username: Qinghao-Guan
+linkedin_username: qinghao-guan-a67733276
 ```
 
 For more information, see the [jekyll-socials documentation](https://github.com/george-gca/jekyll-socials).
