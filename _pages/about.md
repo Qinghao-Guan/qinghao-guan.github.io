@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: photo-2025.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>
       AND 3.57<br>
@@ -28,10 +28,6 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog 
 ---
-
-<br> 
-
-**Hi, welcome to my website!** 👋  
 
 <br> 
 
