@@ -5,9 +5,9 @@ permalink: /
 subtitle:
 
 profile:
-  align: right
+  align: left
   image: photo-2025.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular:  # crops the image to make it circular
   more_info: >
     <p>
       AND 3.57<br>
